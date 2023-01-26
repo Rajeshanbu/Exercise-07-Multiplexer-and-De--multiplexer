@@ -60,11 +60,11 @@ Step5: End the module.
 Step6: Generate RTL realization and timing diagrams.
 
 # PROGRAM
-/*
+```
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by: Rajesh A
 RegisterNumber: 22008551
-*/
+```
 # MUX:
  ```
  module mux(s1,s2,ip,iq,ir,is,y);
